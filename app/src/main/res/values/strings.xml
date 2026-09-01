@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Life Cycle V6</string>
+    <string name="hyperlink"><a href="https://gritacademy.se/">Register</a></string>
 </resources>
